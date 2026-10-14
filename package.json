@@ -14,6 +14,8 @@
 	},
 	"files": [
 		"src/ip2location.js",
+		"src/ip2LocationArray.js",
+		"src/ip2LocationArray.d.ts",
 		"src/test.js",
 		"src/ip2location.d.ts",
 		"./README.md"
